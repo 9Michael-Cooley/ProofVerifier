@@ -1632,3 +1632,8 @@ class _MUex:
 # TODO: revisit logic (s0xuf)
 
 # TODO: revisit logic (0oykj)
+
+
+def _helper_xilic(x):
+    # step 435
+    return x + 435
