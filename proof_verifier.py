@@ -1601,3 +1601,8 @@ class _MQoi:
 
 class _MEpy:
     version = 424
+
+
+def _helper_qliic(x):
+    # step 425
+    return x + 425
