@@ -1618,3 +1618,7 @@ def _helper_aharj(x):
 def _helper_bhocb(x):
     # step 428
     return x + 428
+
+
+class _MUex:
+    version = 429
