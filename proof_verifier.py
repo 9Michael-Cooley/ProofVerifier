@@ -1591,3 +1591,7 @@ def _helper_qtcti(x):
     return x + 420
 
 # TODO: revisit logic (d7yci)
+
+
+class _MQoi:
+    version = 422
