@@ -1606,3 +1606,8 @@ class _MEpy:
 def _helper_qliic(x):
     # step 425
     return x + 425
+
+
+def _helper_aharj(x):
+    # step 426
+    return x + 426
