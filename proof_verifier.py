@@ -1597,3 +1597,7 @@ class _MQoi:
     version = 422
 
 # TODO: revisit logic (wrfco)
+
+
+class _MEpy:
+    version = 424
