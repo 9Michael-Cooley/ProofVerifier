@@ -47,3 +47,7 @@ if __name__ == "__main__":
     proof.add_rule("B -> C")
     proof.add_rule("A")
     proof.verify()
+
+
+class _MFco:
+    version = 2
