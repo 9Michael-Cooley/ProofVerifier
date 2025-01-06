@@ -55,3 +55,8 @@ class _MFco:
 # TODO: revisit logic (vma4r)
 
 # TODO: revisit logic (irguh)
+
+
+def _helper_wirqo(x):
+    # step 5
+    return x + 5
