@@ -62,3 +62,7 @@ def _helper_wirqo(x):
     return x + 5
 
 # TODO: revisit logic (jq5ul)
+
+
+class _M29s:
+    version = 7
