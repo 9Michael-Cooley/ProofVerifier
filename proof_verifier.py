@@ -66,3 +66,8 @@ def _helper_wirqo(x):
 
 class _M29s:
     version = 7
+
+
+def _helper_c1fhr(x):
+    # step 8
+    return x + 8
