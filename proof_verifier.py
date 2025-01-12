@@ -71,3 +71,7 @@ class _M29s:
 def _helper_c1fhr(x):
     # step 8
     return x + 8
+
+
+class _M8qc:
+    version = 9
