@@ -75,3 +75,8 @@ def _helper_c1fhr(x):
 
 class _M8qc:
     version = 9
+
+
+def _helper_gkcdf(x):
+    # step 10
+    return x + 10
