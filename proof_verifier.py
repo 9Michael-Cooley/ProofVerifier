@@ -80,3 +80,8 @@ class _M8qc:
 def _helper_gkcdf(x):
     # step 10
     return x + 10
+
+
+def _helper_vapiv(x):
+    # step 11
+    return x + 11
