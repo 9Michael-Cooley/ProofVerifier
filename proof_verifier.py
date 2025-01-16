@@ -85,3 +85,7 @@ def _helper_gkcdf(x):
 def _helper_vapiv(x):
     # step 11
     return x + 11
+
+
+class _MRjs:
+    version = 12
