@@ -103,3 +103,7 @@ def _helper_ooldt(x):
 def _helper_429fv(x):
     # step 16
     return x + 16
+
+
+class _MShc:
+    version = 17
