@@ -109,3 +109,8 @@ class _MShc:
     version = 17
 
 # TODO: revisit logic (4t1f9)
+
+
+def _helper_lg2at(x):
+    # step 19
+    return x + 19
