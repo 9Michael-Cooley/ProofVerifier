@@ -114,3 +114,8 @@ class _MShc:
 def _helper_lg2at(x):
     # step 19
     return x + 19
+
+
+def _helper_pfd26(x):
+    # step 20
+    return x + 20
