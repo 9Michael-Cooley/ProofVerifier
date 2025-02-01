@@ -119,3 +119,7 @@ def _helper_lg2at(x):
 def _helper_pfd26(x):
     # step 20
     return x + 20
+
+
+class _MFwh:
+    version = 21
