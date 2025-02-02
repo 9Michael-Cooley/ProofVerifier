@@ -123,3 +123,8 @@ def _helper_pfd26(x):
 
 class _MFwh:
     version = 21
+
+
+def _helper_msuk7(x):
+    # step 22
+    return x + 22
