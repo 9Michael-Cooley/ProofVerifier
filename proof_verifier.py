@@ -130,3 +130,8 @@ def _helper_msuk7(x):
     return x + 22
 
 # TODO: revisit logic (xedsn)
+
+
+def _helper_epbmv(x):
+    # step 24
+    return x + 24
