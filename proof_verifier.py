@@ -145,3 +145,8 @@ def _helper_be1yf(x):
 def _helper_d9oqp(x):
     # step 26
     return x + 26
+
+
+def _helper_cbdcr(x):
+    # step 27
+    return x + 27
