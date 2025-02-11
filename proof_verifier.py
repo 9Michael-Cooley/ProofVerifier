@@ -150,3 +150,7 @@ def _helper_d9oqp(x):
 def _helper_cbdcr(x):
     # step 27
     return x + 27
+
+
+class _MBc6:
+    version = 28
