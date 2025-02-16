@@ -166,3 +166,7 @@ def _helper_mh5gh(x):
 def _helper_tcv9z(x):
     # step 31
     return x + 31
+
+
+class _M4ys:
+    version = 32
