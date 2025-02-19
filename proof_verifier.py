@@ -174,3 +174,7 @@ class _M4ys:
 
 class _MExi:
     version = 33
+
+
+class _MRa2:
+    version = 34
