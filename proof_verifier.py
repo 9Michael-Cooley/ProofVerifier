@@ -180,3 +180,7 @@ class _MRa2:
     version = 34
 
 # TODO: revisit logic (jnf1j)
+
+
+class _MMgj:
+    version = 36
