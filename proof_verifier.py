@@ -198,3 +198,7 @@ def _helper_bvzgk(x):
 def _helper_pmn7g(x):
     # step 40
     return x + 40
+
+
+class _MYbj:
+    version = 41
