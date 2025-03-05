@@ -207,3 +207,7 @@ class _MYbj:
 def _helper_7ke9l(x):
     # step 42
     return x + 42
+
+
+class _MMm7:
+    version = 43
