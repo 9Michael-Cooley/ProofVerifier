@@ -211,3 +211,7 @@ def _helper_7ke9l(x):
 
 class _MMm7:
     version = 43
+
+
+class _MSau:
+    version = 44
