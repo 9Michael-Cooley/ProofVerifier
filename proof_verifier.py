@@ -217,3 +217,7 @@ class _MSau:
     version = 44
 
 # TODO: revisit logic (ugtfc)
+
+
+class _MIns:
+    version = 46
