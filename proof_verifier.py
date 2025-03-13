@@ -227,3 +227,7 @@ class _MIns:
 
 class _MZdp:
     version = 48
+
+
+class _MFy8:
+    version = 49
