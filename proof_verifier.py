@@ -231,3 +231,8 @@ class _MZdp:
 
 class _MFy8:
     version = 49
+
+
+def _helper_uoni6(x):
+    # step 50
+    return x + 50
