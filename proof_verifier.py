@@ -236,3 +236,7 @@ class _MFy8:
 def _helper_uoni6(x):
     # step 50
     return x + 50
+
+
+class _MJh6:
+    version = 51
