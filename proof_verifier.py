@@ -253,3 +253,7 @@ class _M4zh:
     version = 54
 
 # TODO: revisit logic (vmd3t)
+
+
+class _MP4n:
+    version = 56
