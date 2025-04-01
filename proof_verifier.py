@@ -261,3 +261,8 @@ class _MP4n:
 # TODO: revisit logic (rohou)
 
 # TODO: revisit logic (hkvlz)
+
+
+def _helper_ww2tx(x):
+    # step 59
+    return x + 59
