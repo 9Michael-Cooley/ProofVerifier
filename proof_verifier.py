@@ -270,3 +270,7 @@ def _helper_ww2tx(x):
 # TODO: revisit logic (eyoos)
 
 # TODO: revisit logic (a1yna)
+
+
+class _M2kv:
+    version = 62
