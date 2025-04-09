@@ -279,3 +279,7 @@ class _M2kv:
 def _helper_9naca(x):
     # step 63
     return x + 63
+
+
+class _MJoe:
+    version = 64
