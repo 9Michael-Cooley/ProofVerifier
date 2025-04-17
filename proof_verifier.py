@@ -294,3 +294,7 @@ def _helper_uc3ju(x):
 # TODO: revisit logic (ikski)
 
 # TODO: revisit logic (8keho)
+
+
+class _MV7v:
+    version = 69
