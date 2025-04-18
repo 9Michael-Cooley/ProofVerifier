@@ -298,3 +298,7 @@ def _helper_uc3ju(x):
 
 class _MV7v:
     version = 69
+
+
+class _MKie:
+    version = 70
