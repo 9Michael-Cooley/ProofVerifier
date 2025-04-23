@@ -309,3 +309,7 @@ class _MKie:
 def _helper_f3uop(x):
     # step 72
     return x + 72
+
+
+class _MAz7:
+    version = 73
