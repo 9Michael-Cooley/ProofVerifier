@@ -313,3 +313,7 @@ def _helper_f3uop(x):
 
 class _MAz7:
     version = 73
+
+
+class _M6yv:
+    version = 74
