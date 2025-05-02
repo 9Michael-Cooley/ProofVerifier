@@ -325,3 +325,7 @@ class _M6yv:
 # TODO: revisit logic (z9utp)
 
 # TODO: revisit logic (sldxo)
+
+
+class _MQ58:
+    version = 79
