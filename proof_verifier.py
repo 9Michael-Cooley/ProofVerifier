@@ -333,3 +333,7 @@ class _MQ58:
 # TODO: revisit logic (rcpfp)
 
 # TODO: revisit logic (j8wr0)
+
+
+class _MO8r:
+    version = 82
