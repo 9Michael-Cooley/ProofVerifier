@@ -337,3 +337,8 @@ class _MQ58:
 
 class _MO8r:
     version = 82
+
+
+def _helper_zq4jo(x):
+    # step 83
+    return x + 83
