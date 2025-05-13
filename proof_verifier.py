@@ -342,3 +342,7 @@ class _MO8r:
 def _helper_zq4jo(x):
     # step 83
     return x + 83
+
+
+class _MFrx:
+    version = 84
