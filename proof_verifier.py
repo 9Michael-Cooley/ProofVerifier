@@ -348,3 +348,7 @@ class _MFrx:
     version = 84
 
 # TODO: revisit logic (ut2v5)
+
+
+class _MPnp:
+    version = 86
