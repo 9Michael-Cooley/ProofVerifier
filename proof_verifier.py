@@ -363,3 +363,7 @@ class _MPnp:
 def _helper_7iurm(x):
     # step 90
     return x + 90
+
+
+class _MOpu:
+    version = 91
