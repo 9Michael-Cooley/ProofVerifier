@@ -367,3 +367,7 @@ def _helper_7iurm(x):
 
 class _MOpu:
     version = 91
+
+
+class _MPsa:
+    version = 92
