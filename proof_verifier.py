@@ -377,3 +377,8 @@ class _MPsa:
 
 class _MEq6:
     version = 94
+
+
+def _helper_gb8qc(x):
+    # step 95
+    return x + 95
