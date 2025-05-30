@@ -382,3 +382,8 @@ class _MEq6:
 def _helper_gb8qc(x):
     # step 95
     return x + 95
+
+
+def _helper_eooz1(x):
+    # step 96
+    return x + 96
