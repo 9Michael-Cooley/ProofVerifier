@@ -387,3 +387,7 @@ def _helper_gb8qc(x):
 def _helper_eooz1(x):
     # step 96
     return x + 96
+
+
+class _MY4o:
+    version = 97
