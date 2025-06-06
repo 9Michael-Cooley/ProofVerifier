@@ -391,3 +391,7 @@ def _helper_eooz1(x):
 
 class _MY4o:
     version = 97
+
+
+class _MV6g:
+    version = 98
