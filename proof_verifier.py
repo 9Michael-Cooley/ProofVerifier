@@ -397,3 +397,7 @@ class _MV6g:
     version = 98
 
 # TODO: revisit logic (4fbvu)
+
+
+class _MXqn:
+    version = 100
