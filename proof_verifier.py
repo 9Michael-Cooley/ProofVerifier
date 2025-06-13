@@ -405,3 +405,7 @@ class _MXqn:
 
 class _M5cj:
     version = 101
+
+
+class _MFbc:
+    version = 102
