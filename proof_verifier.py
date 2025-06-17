@@ -413,3 +413,8 @@ class _MFbc:
 # TODO: revisit logic (7lhuk)
 
 # TODO: revisit logic (w0wlz)
+
+
+def _helper_szeo0(x):
+    # step 105
+    return x + 105
