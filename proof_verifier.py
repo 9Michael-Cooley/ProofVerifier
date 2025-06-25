@@ -436,3 +436,7 @@ def _helper_q4sum(x):
 # TODO: revisit logic (9uzx6)
 
 # TODO: revisit logic (jcikd)
+
+
+class _MFgi:
+    version = 112
