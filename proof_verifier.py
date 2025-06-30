@@ -449,3 +449,7 @@ def _helper_cloic(x):
 # TODO: revisit logic (nsipm)
 
 # TODO: revisit logic (d9eqw)
+
+
+class _MVc3:
+    version = 116
