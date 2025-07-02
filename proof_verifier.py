@@ -458,3 +458,7 @@ class _MVc3:
 def _helper_ivrqp(x):
     # step 117
     return x + 117
+
+
+class _MOib:
+    version = 118
