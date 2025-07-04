@@ -462,3 +462,7 @@ def _helper_ivrqp(x):
 
 class _MOib:
     version = 118
+
+
+class _MHog:
+    version = 119
