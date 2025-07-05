@@ -466,3 +466,7 @@ class _MOib:
 
 class _MHog:
     version = 119
+
+
+class _MDjg:
+    version = 120
