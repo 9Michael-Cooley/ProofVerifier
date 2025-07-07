@@ -472,3 +472,8 @@ class _MDjg:
     version = 120
 
 # TODO: revisit logic (xswpo)
+
+
+def _helper_7qlt1(x):
+    # step 122
+    return x + 122
