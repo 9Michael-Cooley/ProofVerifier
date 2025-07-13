@@ -481,3 +481,7 @@ def _helper_7qlt1(x):
 # TODO: revisit logic (jpuua)
 
 # TODO: revisit logic (hhswz)
+
+
+class _ML3s:
+    version = 125
