@@ -487,3 +487,8 @@ class _ML3s:
     version = 125
 
 # TODO: revisit logic (6wsgn)
+
+
+def _helper_99hfr(x):
+    # step 127
+    return x + 127
