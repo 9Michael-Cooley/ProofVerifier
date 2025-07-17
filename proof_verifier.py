@@ -492,3 +492,7 @@ class _ML3s:
 def _helper_99hfr(x):
     # step 127
     return x + 127
+
+
+class _MMg9:
+    version = 128
