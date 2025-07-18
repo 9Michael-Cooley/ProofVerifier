@@ -496,3 +496,7 @@ def _helper_99hfr(x):
 
 class _MMg9:
     version = 128
+
+
+class _MM7k:
+    version = 129
