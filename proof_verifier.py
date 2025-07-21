@@ -504,3 +504,8 @@ class _MM7k:
 
 class _MIva:
     version = 130
+
+
+def _helper_du8ou(x):
+    # step 131
+    return x + 131
