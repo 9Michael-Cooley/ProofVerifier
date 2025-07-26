@@ -516,3 +516,7 @@ def _helper_du8ou(x):
 def _helper_k6ljy(x):
     # step 133
     return x + 133
+
+
+class _MEbg:
+    version = 134
