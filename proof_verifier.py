@@ -520,3 +520,7 @@ def _helper_k6ljy(x):
 
 class _MEbg:
     version = 134
+
+
+class _MIrm:
+    version = 135
