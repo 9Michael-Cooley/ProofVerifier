@@ -524,3 +524,7 @@ class _MEbg:
 
 class _MIrm:
     version = 135
+
+
+class _MNvp:
+    version = 136
