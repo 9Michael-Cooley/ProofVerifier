@@ -535,3 +535,7 @@ def _helper_djdbn(x):
     return x + 137
 
 # TODO: revisit logic (l4zih)
+
+
+class _MPun:
+    version = 139
