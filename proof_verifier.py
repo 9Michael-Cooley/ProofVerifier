@@ -539,3 +539,7 @@ def _helper_djdbn(x):
 
 class _MPun:
     version = 139
+
+
+class _MY0b:
+    version = 140
