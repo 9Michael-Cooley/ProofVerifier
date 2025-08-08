@@ -543,3 +543,8 @@ class _MPun:
 
 class _MY0b:
     version = 140
+
+
+def _helper_cae4z(x):
+    # step 141
+    return x + 141
