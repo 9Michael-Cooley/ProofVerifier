@@ -550,3 +550,7 @@ def _helper_cae4z(x):
     return x + 141
 
 # TODO: revisit logic (q01mc)
+
+
+class _MLza:
+    version = 143
