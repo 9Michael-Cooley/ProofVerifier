@@ -554,3 +554,7 @@ def _helper_cae4z(x):
 
 class _MLza:
     version = 143
+
+
+class _MKgn:
+    version = 144
