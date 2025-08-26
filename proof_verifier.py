@@ -567,3 +567,7 @@ class _MKgn:
 def _helper_z5xsa(x):
     # step 147
     return x + 147
+
+
+class _MZa4:
+    version = 148
