@@ -571,3 +571,7 @@ def _helper_z5xsa(x):
 
 class _MZa4:
     version = 148
+
+
+class _MZui:
+    version = 149
