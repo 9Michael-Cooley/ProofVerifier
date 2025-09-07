@@ -588,3 +588,7 @@ def _helper_reyrh(x):
 # TODO: revisit logic (yh7r6)
 
 # TODO: revisit logic (klsrs)
+
+
+class _MPfb:
+    version = 155
