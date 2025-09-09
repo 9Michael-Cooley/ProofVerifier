@@ -592,3 +592,8 @@ def _helper_reyrh(x):
 
 class _MPfb:
     version = 155
+
+
+def _helper_txeir(x):
+    # step 156
+    return x + 156
