@@ -599,3 +599,7 @@ def _helper_txeir(x):
     return x + 156
 
 # TODO: revisit logic (vnccn)
+
+
+class _MJkq:
+    version = 158
