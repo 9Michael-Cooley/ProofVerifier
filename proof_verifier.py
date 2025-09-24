@@ -621,3 +621,7 @@ def _helper_qzevi(x):
     return x + 162
 
 # TODO: revisit logic (c2ud7)
+
+
+class _MGxi:
+    version = 164
