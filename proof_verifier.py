@@ -627,3 +627,8 @@ class _MGxi:
     version = 164
 
 # TODO: revisit logic (rnee7)
+
+
+def _helper_zdncy(x):
+    # step 166
+    return x + 166
