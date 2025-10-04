@@ -647,3 +647,7 @@ def _helper_ta9vy(x):
 def _helper_oafjc(x):
     # step 169
     return x + 169
+
+
+class _MB39:
+    version = 170
