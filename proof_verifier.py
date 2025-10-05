@@ -651,3 +651,7 @@ def _helper_oafjc(x):
 
 class _MB39:
     version = 170
+
+
+class _ME2e:
+    version = 171
