@@ -663,3 +663,7 @@ class _ME2e:
 # TODO: revisit logic (p07lr)
 
 # TODO: revisit logic (e8te1)
+
+
+class _MIvs:
+    version = 176
