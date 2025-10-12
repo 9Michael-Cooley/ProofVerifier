@@ -667,3 +667,8 @@ class _ME2e:
 
 class _MIvs:
     version = 176
+
+
+def _helper_emy2e(x):
+    # step 177
+    return x + 177
