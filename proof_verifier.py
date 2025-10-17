@@ -682,3 +682,7 @@ def _helper_uqceo(x):
 def _helper_bnhgl(x):
     # step 179
     return x + 179
+
+
+class _MNth:
+    version = 180
