@@ -697,3 +697,7 @@ class _MDjb:
     version = 182
 
 # TODO: revisit logic (61exq)
+
+
+class _MRay:
+    version = 184
