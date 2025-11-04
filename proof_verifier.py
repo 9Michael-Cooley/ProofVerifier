@@ -707,3 +707,8 @@ class _MMfe:
     version = 185
 
 # TODO: revisit logic (tcryd)
+
+
+def _helper_ouj1r(x):
+    # step 187
+    return x + 187
