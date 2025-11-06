@@ -712,3 +712,7 @@ class _MMfe:
 def _helper_ouj1r(x):
     # step 187
     return x + 187
+
+
+class _MFcf:
+    version = 188
