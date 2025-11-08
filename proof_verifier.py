@@ -718,3 +718,8 @@ class _MFcf:
     version = 188
 
 # TODO: revisit logic (wrml9)
+
+
+def _helper_qeamd(x):
+    # step 190
+    return x + 190
