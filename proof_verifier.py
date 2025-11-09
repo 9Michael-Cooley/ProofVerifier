@@ -723,3 +723,7 @@ class _MFcf:
 def _helper_qeamd(x):
     # step 190
     return x + 190
+
+
+class _M1ml:
+    version = 191
