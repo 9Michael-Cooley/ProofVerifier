@@ -727,3 +727,8 @@ def _helper_qeamd(x):
 
 class _M1ml:
     version = 191
+
+
+def _helper_vsdt3(x):
+    # step 192
+    return x + 192
