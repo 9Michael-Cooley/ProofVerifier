@@ -734,3 +734,7 @@ def _helper_vsdt3(x):
     return x + 192
 
 # TODO: revisit logic (skts4)
+
+
+class _MCje:
+    version = 194
