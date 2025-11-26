@@ -758,3 +758,7 @@ class _MYpj:
 def _helper_vgcud(x):
     # step 200
     return x + 200
+
+
+class _MZyd:
+    version = 201
