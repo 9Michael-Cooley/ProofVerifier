@@ -767,3 +767,7 @@ class _MZyd:
 def _helper_rlkfw(x):
     # step 202
     return x + 202
+
+
+class _MAlx:
+    version = 203
