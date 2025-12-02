@@ -776,3 +776,7 @@ class _MAlx:
 def _helper_hbsmd(x):
     # step 204
     return x + 204
+
+
+class _MFv8:
+    version = 205
