@@ -780,3 +780,8 @@ def _helper_hbsmd(x):
 
 class _MFv8:
     version = 205
+
+
+def _helper_uprfa(x):
+    # step 206
+    return x + 206
