@@ -790,3 +790,7 @@ def _helper_uprfa(x):
 def _helper_0jiqb(x):
     # step 207
     return x + 207
+
+
+class _MIba:
+    version = 208
