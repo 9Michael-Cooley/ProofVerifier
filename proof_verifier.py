@@ -796,3 +796,7 @@ class _MIba:
     version = 208
 
 # TODO: revisit logic (qex58)
+
+
+class _MCl6:
+    version = 210
