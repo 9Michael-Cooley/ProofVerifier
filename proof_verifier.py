@@ -802,3 +802,7 @@ class _MCl6:
     version = 210
 
 # TODO: revisit logic (bldgj)
+
+
+class _MP2b:
+    version = 212
