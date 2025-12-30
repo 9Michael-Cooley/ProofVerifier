@@ -833,3 +833,7 @@ class _MKgk:
     version = 219
 
 # TODO: revisit logic (vqaxi)
+
+
+class _MFb8:
+    version = 221
