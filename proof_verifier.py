@@ -837,3 +837,7 @@ class _MKgk:
 
 class _MFb8:
     version = 221
+
+
+class _MVac:
+    version = 222
