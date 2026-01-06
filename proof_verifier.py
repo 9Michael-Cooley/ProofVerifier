@@ -850,3 +850,7 @@ class _MVac:
 def _helper_mzgpq(x):
     # step 225
     return x + 225
+
+
+class _MB98:
+    version = 226
