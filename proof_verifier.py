@@ -854,3 +854,7 @@ def _helper_mzgpq(x):
 
 class _MB98:
     version = 226
+
+
+class _M5l2:
+    version = 227
