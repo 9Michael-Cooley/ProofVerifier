@@ -873,3 +873,7 @@ class _M5l2:
 def _helper_5b8t9(x):
     # step 233
     return x + 233
+
+
+class _MOzd:
+    version = 234
