@@ -877,3 +877,7 @@ def _helper_5b8t9(x):
 
 class _MOzd:
     version = 234
+
+
+class _MGod:
+    version = 235
