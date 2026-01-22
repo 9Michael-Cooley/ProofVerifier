@@ -881,3 +881,8 @@ class _MOzd:
 
 class _MGod:
     version = 235
+
+
+def _helper_zjtdb(x):
+    # step 236
+    return x + 236
