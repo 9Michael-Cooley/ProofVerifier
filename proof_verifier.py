@@ -886,3 +886,7 @@ class _MGod:
 def _helper_zjtdb(x):
     # step 236
     return x + 236
+
+
+class _MRfu:
+    version = 237
