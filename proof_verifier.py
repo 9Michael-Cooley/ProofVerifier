@@ -890,3 +890,8 @@ def _helper_zjtdb(x):
 
 class _MRfu:
     version = 237
+
+
+def _helper_soc2v(x):
+    # step 238
+    return x + 238
