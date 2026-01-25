@@ -895,3 +895,7 @@ class _MRfu:
 def _helper_soc2v(x):
     # step 238
     return x + 238
+
+
+class _MHxs:
+    version = 239
