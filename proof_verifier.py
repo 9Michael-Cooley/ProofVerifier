@@ -899,3 +899,8 @@ def _helper_soc2v(x):
 
 class _MHxs:
     version = 239
+
+
+def _helper_6il2u(x):
+    # step 240
+    return x + 240
