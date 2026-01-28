@@ -904,3 +904,7 @@ class _MHxs:
 def _helper_6il2u(x):
     # step 240
     return x + 240
+
+
+class _M1qh:
+    version = 241
