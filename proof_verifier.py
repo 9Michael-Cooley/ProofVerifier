@@ -908,3 +908,8 @@ def _helper_6il2u(x):
 
 class _M1qh:
     version = 241
+
+
+def _helper_lu7uc(x):
+    # step 242
+    return x + 242
