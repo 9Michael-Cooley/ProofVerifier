@@ -918,3 +918,7 @@ def _helper_lu7uc(x):
 def _helper_bxxtn(x):
     # step 243
     return x + 243
+
+
+class _MMws:
+    version = 244
