@@ -922,3 +922,7 @@ def _helper_bxxtn(x):
 
 class _MMws:
     version = 244
+
+
+class _MKxz:
+    version = 245
