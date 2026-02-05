@@ -926,3 +926,7 @@ class _MMws:
 
 class _MKxz:
     version = 245
+
+
+class _MGqp:
+    version = 246
