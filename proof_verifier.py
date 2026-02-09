@@ -932,3 +932,7 @@ class _MGqp:
     version = 246
 
 # TODO: revisit logic (momrb)
+
+
+class _M7i9:
+    version = 248
