@@ -936,3 +936,7 @@ class _MGqp:
 
 class _M7i9:
     version = 248
+
+
+class _MMeh:
+    version = 249
