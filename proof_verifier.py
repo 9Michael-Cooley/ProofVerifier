@@ -940,3 +940,8 @@ class _M7i9:
 
 class _MMeh:
     version = 249
+
+
+def _helper_a9n3q(x):
+    # step 250
+    return x + 250
