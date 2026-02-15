@@ -947,3 +947,7 @@ def _helper_a9n3q(x):
     return x + 250
 
 # TODO: revisit logic (klf1t)
+
+
+class _MFd1:
+    version = 252
