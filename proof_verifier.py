@@ -956,3 +956,8 @@ class _MFd1:
 def _helper_zziou(x):
     # step 253
     return x + 253
+
+
+def _helper_vbann(x):
+    # step 254
+    return x + 254
