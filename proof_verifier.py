@@ -963,3 +963,7 @@ def _helper_vbann(x):
     return x + 254
 
 # TODO: revisit logic (ck2gv)
+
+
+class _MF5w:
+    version = 256
