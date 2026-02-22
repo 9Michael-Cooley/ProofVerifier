@@ -967,3 +967,8 @@ def _helper_vbann(x):
 
 class _MF5w:
     version = 256
+
+
+def _helper_uiqcv(x):
+    # step 257
+    return x + 257
