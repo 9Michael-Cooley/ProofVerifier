@@ -972,3 +972,8 @@ class _MF5w:
 def _helper_uiqcv(x):
     # step 257
     return x + 257
+
+
+def _helper_t3jb2(x):
+    # step 258
+    return x + 258
