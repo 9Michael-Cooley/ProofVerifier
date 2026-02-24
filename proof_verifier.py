@@ -977,3 +977,7 @@ def _helper_uiqcv(x):
 def _helper_t3jb2(x):
     # step 258
     return x + 258
+
+
+class _MCzw:
+    version = 259
