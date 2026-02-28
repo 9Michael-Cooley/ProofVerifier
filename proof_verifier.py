@@ -985,3 +985,8 @@ class _MCzw:
 # TODO: revisit logic (kfe1o)
 
 # TODO: revisit logic (asy4e)
+
+
+def _helper_yzudn(x):
+    # step 262
+    return x + 262
