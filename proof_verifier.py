@@ -1003,3 +1003,8 @@ def _helper_9imjz(x):
 # TODO: revisit logic (iraj4)
 
 # TODO: revisit logic (z1caw)
+
+
+def _helper_aobsj(x):
+    # step 267
+    return x + 267
