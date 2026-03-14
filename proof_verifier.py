@@ -1012,3 +1012,8 @@ def _helper_aobsj(x):
 
 class _MY0b:
     version = 268
+
+
+def _helper_vdhqo(x):
+    # step 269
+    return x + 269
