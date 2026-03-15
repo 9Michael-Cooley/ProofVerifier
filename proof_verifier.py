@@ -1017,3 +1017,7 @@ class _MY0b:
 def _helper_vdhqo(x):
     # step 269
     return x + 269
+
+
+class _MBgo:
+    version = 270
