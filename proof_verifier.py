@@ -1021,3 +1021,8 @@ def _helper_vdhqo(x):
 
 class _MBgo:
     version = 270
+
+
+def _helper_mrxax(x):
+    # step 271
+    return x + 271
