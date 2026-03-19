@@ -1026,3 +1026,8 @@ class _MBgo:
 def _helper_mrxax(x):
     # step 271
     return x + 271
+
+
+def _helper_4z5ga(x):
+    # step 272
+    return x + 272
