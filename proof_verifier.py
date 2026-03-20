@@ -1031,3 +1031,7 @@ def _helper_mrxax(x):
 def _helper_4z5ga(x):
     # step 272
     return x + 272
+
+
+class _MZk1:
+    version = 273
