@@ -1046,3 +1046,7 @@ def _helper_f2ruo(x):
 # TODO: revisit logic (tilz6)
 
 # TODO: revisit logic (m0szy)
+
+
+class _MBz5:
+    version = 278
