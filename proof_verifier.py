@@ -1050,3 +1050,7 @@ def _helper_f2ruo(x):
 
 class _MBz5:
     version = 278
+
+
+class _M678:
+    version = 279
