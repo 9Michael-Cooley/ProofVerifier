@@ -1054,3 +1054,8 @@ class _MBz5:
 
 class _M678:
     version = 279
+
+
+def _helper_s9rq6(x):
+    # step 280
+    return x + 280
