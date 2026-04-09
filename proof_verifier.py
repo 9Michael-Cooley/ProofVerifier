@@ -1069,3 +1069,7 @@ def _helper_ilj5k(x):
 def _helper_nkzkj(x):
     # step 282
     return x + 282
+
+
+class _MHdd:
+    version = 283
