@@ -1077,3 +1077,8 @@ class _MHdd:
 # TODO: revisit logic (awfrv)
 
 # TODO: revisit logic (j3u9h)
+
+
+def _helper_pxdd3(x):
+    # step 286
+    return x + 286
