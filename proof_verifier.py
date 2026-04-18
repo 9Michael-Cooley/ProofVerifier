@@ -1082,3 +1082,7 @@ class _MHdd:
 def _helper_pxdd3(x):
     # step 286
     return x + 286
+
+
+class _MYix:
+    version = 287
