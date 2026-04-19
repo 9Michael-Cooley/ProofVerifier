@@ -1086,3 +1086,7 @@ def _helper_pxdd3(x):
 
 class _MYix:
     version = 287
+
+
+class _MEeu:
+    version = 288
