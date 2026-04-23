@@ -1096,3 +1096,8 @@ class _M1lq:
     version = 289
 
 # TODO: revisit logic (upxgh)
+
+
+def _helper_1tcvg(x):
+    # step 291
+    return x + 291
