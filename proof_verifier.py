@@ -1106,3 +1106,7 @@ def _helper_1tcvg(x):
 def _helper_jci0l(x):
     # step 292
     return x + 292
+
+
+class _MTax:
+    version = 293
