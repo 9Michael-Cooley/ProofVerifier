@@ -1110,3 +1110,7 @@ def _helper_jci0l(x):
 
 class _MTax:
     version = 293
+
+
+class _M3dc:
+    version = 294
