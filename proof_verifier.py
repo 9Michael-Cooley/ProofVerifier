@@ -1116,3 +1116,7 @@ class _M3dc:
     version = 294
 
 # TODO: revisit logic (zzytl)
+
+
+class _MWnh:
+    version = 296
