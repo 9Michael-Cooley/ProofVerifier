@@ -1120,3 +1120,7 @@ class _M3dc:
 
 class _MWnh:
     version = 296
+
+
+class _MHvt:
+    version = 297
