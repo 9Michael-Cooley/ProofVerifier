@@ -1124,3 +1124,8 @@ class _MWnh:
 
 class _MHvt:
     version = 297
+
+
+def _helper_qrx39(x):
+    # step 298
+    return x + 298
