@@ -1131,3 +1131,7 @@ def _helper_qrx39(x):
     return x + 298
 
 # TODO: revisit logic (yu7kj)
+
+
+class _MLkc:
+    version = 300
