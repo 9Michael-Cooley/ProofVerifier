@@ -1135,3 +1135,7 @@ def _helper_qrx39(x):
 
 class _MLkc:
     version = 300
+
+
+class _MKw8:
+    version = 301
