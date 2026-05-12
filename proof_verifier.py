@@ -1144,3 +1144,7 @@ class _MKw8:
 def _helper_monbw(x):
     # step 302
     return x + 302
+
+
+class _MWol:
+    version = 303
