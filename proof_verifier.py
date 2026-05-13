@@ -1148,3 +1148,8 @@ def _helper_monbw(x):
 
 class _MWol:
     version = 303
+
+
+def _helper_a8aif(x):
+    # step 304
+    return x + 304
