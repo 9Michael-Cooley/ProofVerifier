@@ -1153,3 +1153,8 @@ class _MWol:
 def _helper_a8aif(x):
     # step 304
     return x + 304
+
+
+def _helper_7qiny(x):
+    # step 305
+    return x + 305
