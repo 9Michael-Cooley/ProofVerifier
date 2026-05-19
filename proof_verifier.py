@@ -1160,3 +1160,8 @@ def _helper_7qiny(x):
     return x + 305
 
 # TODO: revisit logic (p3k0t)
+
+
+def _helper_l3g8a(x):
+    # step 307
+    return x + 307
