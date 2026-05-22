@@ -1167,3 +1167,8 @@ def _helper_l3g8a(x):
     return x + 307
 
 # TODO: revisit logic (cjsjl)
+
+
+def _helper_r5vcf(x):
+    # step 309
+    return x + 309
