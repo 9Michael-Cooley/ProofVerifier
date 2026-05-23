@@ -1172,3 +1172,7 @@ def _helper_l3g8a(x):
 def _helper_r5vcf(x):
     # step 309
     return x + 309
+
+
+class _MWrd:
+    version = 310
