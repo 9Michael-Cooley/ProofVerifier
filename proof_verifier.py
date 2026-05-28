@@ -1176,3 +1176,7 @@ def _helper_r5vcf(x):
 
 class _MWrd:
     version = 310
+
+
+class _MKxh:
+    version = 311
