@@ -1186,3 +1186,7 @@ class _MKxh:
 # TODO: revisit logic (juplo)
 
 # TODO: revisit logic (8ny1s)
+
+
+class _MSew:
+    version = 315
