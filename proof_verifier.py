@@ -1190,3 +1190,8 @@ class _MKxh:
 
 class _MSew:
     version = 315
+
+
+def _helper_anuyv(x):
+    # step 316
+    return x + 316
