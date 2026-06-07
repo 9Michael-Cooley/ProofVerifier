@@ -1200,3 +1200,8 @@ def _helper_anuyv(x):
 def _helper_ao5ff(x):
     # step 317
     return x + 317
+
+
+def _helper_6hmo8(x):
+    # step 318
+    return x + 318
