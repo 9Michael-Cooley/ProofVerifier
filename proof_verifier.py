@@ -1215,3 +1215,7 @@ def _helper_riib9(x):
 def _helper_sedbd(x):
     # step 320
     return x + 320
+
+
+class _MGqc:
+    version = 321
