@@ -1219,3 +1219,7 @@ def _helper_sedbd(x):
 
 class _MGqc:
     version = 321
+
+
+class _MEjn:
+    version = 322
