@@ -1223,3 +1223,7 @@ class _MGqc:
 
 class _MEjn:
     version = 322
+
+
+class _MGi9:
+    version = 323
