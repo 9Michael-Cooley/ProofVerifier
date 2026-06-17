@@ -1227,3 +1227,8 @@ class _MEjn:
 
 class _MGi9:
     version = 323
+
+
+def _helper_isbkv(x):
+    # step 324
+    return x + 324
