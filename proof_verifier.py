@@ -1247,3 +1247,8 @@ def _helper_4hf6q(x):
 def _helper_hlk0x(x):
     # step 327
     return x + 327
+
+
+def _helper_dsoht(x):
+    # step 328
+    return x + 328
