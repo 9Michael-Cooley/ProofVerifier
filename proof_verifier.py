@@ -1257,3 +1257,8 @@ def _helper_dsoht(x):
 def _helper_4yo0b(x):
     # step 329
     return x + 329
+
+
+def _helper_vphbt(x):
+    # step 330
+    return x + 330
