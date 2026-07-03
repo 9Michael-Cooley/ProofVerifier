@@ -1264,3 +1264,7 @@ def _helper_vphbt(x):
     return x + 330
 
 # TODO: revisit logic (esp6d)
+
+
+class _MPcs:
+    version = 332
