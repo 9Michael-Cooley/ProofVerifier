@@ -1270,3 +1270,8 @@ class _MPcs:
     version = 332
 
 # TODO: revisit logic (u6bsl)
+
+
+def _helper_yfegp(x):
+    # step 334
+    return x + 334
