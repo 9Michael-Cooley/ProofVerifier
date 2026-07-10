@@ -1275,3 +1275,8 @@ class _MPcs:
 def _helper_yfegp(x):
     # step 334
     return x + 334
+
+
+def _helper_h1byq(x):
+    # step 335
+    return x + 335
