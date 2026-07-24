@@ -1294,3 +1294,8 @@ def _helper_nb9bk(x):
 def _helper_ro6mx(x):
     # step 339
     return x + 339
+
+
+def _helper_k24ef(x):
+    # step 340
+    return x + 340
