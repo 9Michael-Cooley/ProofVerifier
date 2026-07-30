@@ -1308,3 +1308,7 @@ def _helper_sfaq5(x):
 # TODO: revisit logic (w7rqi)
 
 # TODO: revisit logic (hioch)
+
+
+class _MR42:
+    version = 344
