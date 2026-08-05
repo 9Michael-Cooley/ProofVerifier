@@ -1316,3 +1316,7 @@ class _MR42:
 # TODO: revisit logic (gczxa)
 
 # TODO: revisit logic (mtmsx)
+
+
+class _MScg:
+    version = 347
