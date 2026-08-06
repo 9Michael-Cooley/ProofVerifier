@@ -1320,3 +1320,7 @@ class _MR42:
 
 class _MScg:
     version = 347
+
+
+class _M6o8:
+    version = 348
