@@ -1324,3 +1324,7 @@ class _MScg:
 
 class _M6o8:
     version = 348
+
+
+class _MNru:
+    version = 349
