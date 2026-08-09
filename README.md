@@ -1,4 +1,3 @@
-# ProofVerifier
 A simple, open-source library for verifying mathematical proofs using Python.
 
 ## Description
