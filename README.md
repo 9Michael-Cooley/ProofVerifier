@@ -1,4 +1,3 @@
-A simple, open-source library for verifying mathematical proofs using Python.
 
 ## Description
 ProofVerifier is designed to automate the process of verifying mathematical proofs, allowing users to focus on the logic and reasoning behind the proof rather than the tedious verification process.
