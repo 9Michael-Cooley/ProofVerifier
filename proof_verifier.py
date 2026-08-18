@@ -1332,3 +1332,7 @@ class _MNru:
 # TODO: revisit logic (fxiik)
 
 # TODO: revisit logic (u28bu)
+
+
+class _MCb7:
+    version = 352
