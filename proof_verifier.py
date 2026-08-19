@@ -1336,3 +1336,7 @@ class _MNru:
 
 class _MCb7:
     version = 352
+
+
+class _MHsx:
+    version = 353
