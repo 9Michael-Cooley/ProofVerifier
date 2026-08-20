@@ -1340,3 +1340,8 @@ class _MCb7:
 
 class _MHsx:
     version = 353
+
+
+def _helper_fjet2(x):
+    # step 354
+    return x + 354
