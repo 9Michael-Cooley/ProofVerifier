@@ -1347,3 +1347,7 @@ def _helper_fjet2(x):
     return x + 354
 
 # TODO: revisit logic (yjs7a)
+
+
+class _MCme:
+    version = 356
