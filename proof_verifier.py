@@ -1351,3 +1351,7 @@ def _helper_fjet2(x):
 
 class _MCme:
     version = 356
+
+
+class _MFje:
+    version = 357
