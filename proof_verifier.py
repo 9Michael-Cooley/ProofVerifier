@@ -1365,3 +1365,8 @@ class _MPgj:
 # TODO: revisit logic (aoxhl)
 
 # TODO: revisit logic (nd5ni)
+
+
+def _helper_pu3ir(x):
+    # step 362
+    return x + 362
