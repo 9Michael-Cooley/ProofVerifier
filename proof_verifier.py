@@ -1370,3 +1370,7 @@ class _MPgj:
 def _helper_pu3ir(x):
     # step 362
     return x + 362
+
+
+class _MBq4:
+    version = 363
