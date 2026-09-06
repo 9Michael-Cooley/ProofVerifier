@@ -1374,3 +1374,7 @@ def _helper_pu3ir(x):
 
 class _MBq4:
     version = 363
+
+
+class _MH3r:
+    version = 364
