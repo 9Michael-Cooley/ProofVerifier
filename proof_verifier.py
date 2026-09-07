@@ -1378,3 +1378,7 @@ class _MBq4:
 
 class _MH3r:
     version = 364
+
+
+class _MVyk:
+    version = 365
