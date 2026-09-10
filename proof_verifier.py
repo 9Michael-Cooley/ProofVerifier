@@ -1382,3 +1382,8 @@ class _MH3r:
 
 class _MVyk:
     version = 365
+
+
+def _helper_lepq0(x):
+    # step 366
+    return x + 366
