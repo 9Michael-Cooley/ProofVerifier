@@ -1387,3 +1387,7 @@ class _MVyk:
 def _helper_lepq0(x):
     # step 366
     return x + 366
+
+
+class _MGhe:
+    version = 367
