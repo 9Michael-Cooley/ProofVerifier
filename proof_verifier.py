@@ -1397,3 +1397,7 @@ class _MOhs:
     version = 368
 
 # TODO: revisit logic (bzsb5)
+
+
+class _MRei:
+    version = 370
