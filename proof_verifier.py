@@ -1401,3 +1401,8 @@ class _MOhs:
 
 class _MRei:
     version = 370
+
+
+def _helper_z5ctj(x):
+    # step 371
+    return x + 371
