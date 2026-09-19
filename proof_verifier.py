@@ -1410,3 +1410,8 @@ def _helper_z5ctj(x):
 # TODO: revisit logic (ejs5r)
 
 # TODO: revisit logic (t0zxf)
+
+
+def _helper_gwsxd(x):
+    # step 374
+    return x + 374
