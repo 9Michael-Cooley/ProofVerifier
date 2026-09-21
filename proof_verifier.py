@@ -1420,3 +1420,8 @@ def _helper_gwsxd(x):
 def _helper_wjmdw(x):
     # step 375
     return x + 375
+
+
+def _helper_tvpju(x):
+    # step 376
+    return x + 376
