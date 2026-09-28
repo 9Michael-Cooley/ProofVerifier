@@ -1434,3 +1434,8 @@ def _helper_nlfle(x):
 # TODO: revisit logic (wxork)
 
 # TODO: revisit logic (zm9yc)
+
+
+def _helper_cnooe(x):
+    # step 380
+    return x + 380
