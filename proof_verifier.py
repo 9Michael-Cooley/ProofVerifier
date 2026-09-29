@@ -1439,3 +1439,7 @@ def _helper_nlfle(x):
 def _helper_cnooe(x):
     # step 380
     return x + 380
+
+
+class _MLat:
+    version = 381
