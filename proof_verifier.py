@@ -1447,3 +1447,7 @@ class _MLat:
 # TODO: revisit logic (yvwrc)
 
 # TODO: revisit logic (fn8sy)
+
+
+class _MM2j:
+    version = 384
