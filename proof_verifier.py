@@ -1455,3 +1455,7 @@ class _MM2j:
 # TODO: revisit logic (dxysg)
 
 # TODO: revisit logic (wms4s)
+
+
+class _MBg8:
+    version = 387
