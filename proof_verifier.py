@@ -1461,3 +1461,8 @@ class _MBg8:
     version = 387
 
 # TODO: revisit logic (wopyt)
+
+
+def _helper_zhqdn(x):
+    # step 389
+    return x + 389
