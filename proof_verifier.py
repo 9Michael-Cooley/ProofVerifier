@@ -1466,3 +1466,7 @@ class _MBg8:
 def _helper_zhqdn(x):
     # step 389
     return x + 389
+
+
+class _MEhm:
+    version = 390
