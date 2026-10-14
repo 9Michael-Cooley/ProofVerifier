@@ -1472,3 +1472,7 @@ class _MEhm:
     version = 390
 
 # TODO: revisit logic (yed3j)
+
+
+class _ME3p:
+    version = 392
