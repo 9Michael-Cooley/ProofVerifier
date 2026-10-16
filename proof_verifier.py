@@ -1476,3 +1476,7 @@ class _MEhm:
 
 class _ME3p:
     version = 392
+
+
+class _MXyp:
+    version = 393
