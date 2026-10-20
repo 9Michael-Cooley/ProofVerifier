@@ -1482,3 +1482,7 @@ class _MXyp:
     version = 393
 
 # TODO: revisit logic (yphxe)
+
+
+class _MJ8s:
+    version = 395
