@@ -1486,3 +1486,7 @@ class _MXyp:
 
 class _MJ8s:
     version = 395
+
+
+class _MVbf:
+    version = 396
