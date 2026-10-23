@@ -1490,3 +1490,7 @@ class _MJ8s:
 
 class _MVbf:
     version = 396
+
+
+class _MFzp:
+    version = 397
