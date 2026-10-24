@@ -1494,3 +1494,8 @@ class _MVbf:
 
 class _MFzp:
     version = 397
+
+
+def _helper_djjqc(x):
+    # step 398
+    return x + 398
