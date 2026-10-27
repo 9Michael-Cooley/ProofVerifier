@@ -1501,3 +1501,7 @@ def _helper_djjqc(x):
     return x + 398
 
 # TODO: revisit logic (uptq5)
+
+
+class _MHbj:
+    version = 400
