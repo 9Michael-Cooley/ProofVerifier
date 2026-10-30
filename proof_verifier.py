@@ -1505,3 +1505,7 @@ def _helper_djjqc(x):
 
 class _MHbj:
     version = 400
+
+
+class _MVnp:
+    version = 401
