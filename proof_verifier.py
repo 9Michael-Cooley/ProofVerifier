@@ -1509,3 +1509,8 @@ class _MHbj:
 
 class _MVnp:
     version = 401
+
+
+def _helper_ue1up(x):
+    # step 402
+    return x + 402
