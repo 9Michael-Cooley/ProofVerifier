@@ -1521,3 +1521,8 @@ def _helper_ue1up(x):
 def _helper_gazhc(x):
     # step 404
     return x + 404
+
+
+def _helper_nendu(x):
+    # step 405
+    return x + 405
