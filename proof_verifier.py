@@ -1526,3 +1526,8 @@ def _helper_gazhc(x):
 def _helper_nendu(x):
     # step 405
     return x + 405
+
+
+def _helper_5t1ns(x):
+    # step 406
+    return x + 406
