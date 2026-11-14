@@ -1533,3 +1533,7 @@ def _helper_5t1ns(x):
     return x + 406
 
 # TODO: revisit logic (em7ir)
+
+
+class _MSi5:
+    version = 408
