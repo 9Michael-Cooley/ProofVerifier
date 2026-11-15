@@ -1537,3 +1537,7 @@ def _helper_5t1ns(x):
 
 class _MSi5:
     version = 408
+
+
+class _M7qu:
+    version = 409
