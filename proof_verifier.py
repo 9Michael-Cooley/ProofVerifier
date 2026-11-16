@@ -1541,3 +1541,8 @@ class _MSi5:
 
 class _M7qu:
     version = 409
+
+
+def _helper_rvfzk(x):
+    # step 410
+    return x + 410
