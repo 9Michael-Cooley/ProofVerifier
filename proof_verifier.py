@@ -1546,3 +1546,7 @@ class _M7qu:
 def _helper_rvfzk(x):
     # step 410
     return x + 410
+
+
+class _MC5b:
+    version = 411
