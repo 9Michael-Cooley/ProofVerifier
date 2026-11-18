@@ -1550,3 +1550,7 @@ def _helper_rvfzk(x):
 
 class _MC5b:
     version = 411
+
+
+class _MQoy:
+    version = 412
