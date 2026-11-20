@@ -1556,3 +1556,7 @@ class _MQoy:
     version = 412
 
 # TODO: revisit logic (or1gc)
+
+
+class _M08l:
+    version = 414
