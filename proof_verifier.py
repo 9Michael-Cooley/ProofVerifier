@@ -1580,3 +1580,7 @@ def _helper_ryzbv(x):
 def _helper_a8lzi(x):
     # step 418
     return x + 418
+
+
+class _MVnq:
+    version = 419
