@@ -1584,3 +1584,8 @@ def _helper_a8lzi(x):
 
 class _MVnq:
     version = 419
+
+
+def _helper_qtcti(x):
+    # step 420
+    return x + 420
